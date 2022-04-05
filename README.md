@@ -61,8 +61,3 @@ The domain model is treated as POJO in Hibernate.
 The domain model is an object model of the domain that incorporates both behavior and data.
 
 v)The Repository Design Pattern via Spring Data JPA library is one of the most popular design patterns to achieve  separation between the actual database, queries, and other data access logic from the rest of the application.
-
-Areas which could have been covered given more time :
-
-i)User authentication using JWT and not form based Spring Security login.
-ii)Unit test of the classes , using JUnit and Mockito.
